@@ -4,7 +4,8 @@
   "description": "Hyperledger Fabric client for Lending Chaincode",
   "main": "client.js",
   "dependencies": {
-    "fabric-network": "^2.2.0"
+    "express": "^5.1.0",
+    "fabric-network": "^2.2.20"
   },
   "scripts": {
     "start": "node client.js"
